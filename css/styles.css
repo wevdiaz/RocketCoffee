@@ -1,0 +1,15 @@
+:root {
+  --font-base: 'Roboto', sans-serif;
+
+  /* Colos */
+  --color-primary: #FADC9B;
+  --color-secondary: #E0A526;
+  --color-logo: #614710;
+  --color-black-main: #2d2c2a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
