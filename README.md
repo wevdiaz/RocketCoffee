@@ -25,7 +25,7 @@
 </p>
 
 ### :speech_balloon: Sobre
-Criando uma página com HTML e CSS e aplicando Responsividade também.
+Criando uma página com HTML e CSS e aplicando Responsividade também. Veja [aqui](https://wevdiaz.github.io/RocketCoffee/)
  
  ### :hammer_and_wrench: Tecnologias
  
