@@ -2,6 +2,12 @@
 
 ***
 
+<p align="center">
+    <img src="https://github.com/wevdiaz/RocketCoffee/blob/master/images/tela_RocketCoffee.png?raw=true" />
+</p>
+
+***
+
 <p align="center">  
       <a> 
           <img src="https://img.shields.io/github/repo-size/wevdiaz/DarkTheme?color=%23F39C12">        
