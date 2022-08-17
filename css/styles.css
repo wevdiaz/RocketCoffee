@@ -78,3 +78,13 @@ header  p {
   font-size: 0.875em;
   width: 15em;
 }
+
+/* Responsive */
+
+@media (max-width: 475px) {
+
+  .brunch,
+  .drinks {
+    padding: 0.5em;
+  }
+}
